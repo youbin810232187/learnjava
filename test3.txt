@@ -1,3 +1,4 @@
 this is test3
 a new file
 修改一个bug  bug编号为bug001
+修改一个bug  bug编号为bug002
